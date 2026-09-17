@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog! 
-My name is: Bpm
+title: "Welcome to my blog"
+date: 2025-05-15
 ---
